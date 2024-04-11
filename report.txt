@@ -1,0 +1,15 @@
+1 mongod
+2 mongosh 
+3 nodemon app.js
+
+To put data
+cd init
+node index.js
+
+cloud atlas
+username : delta-student
+pw : Z23CViP3gYiekljY
+
+mongodb+srv://delta-student:<password>@cluster0.lsi8dlz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://delta-student:Z23CViP3gYiekljY@cluster0.lsi8dlz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
